@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Course/data_stucture/exe2",
-      "program": "d:/Course/data_stucture/exe2/build/Debug/outDebug",
+      "cwd": "d:/Course/data_stucture/exe3",
+      "program": "d:/Course/data_stucture/exe3/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
